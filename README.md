@@ -15,13 +15,16 @@ SmartTrip solves this by combining a nearest-neighbor heuristic with 2-opt local
 ## Application Preview
 
 ### Trip Planner Page
-[Insert image here]
+<img width="1920" height="980" alt="CreateTrip" src="https://github.com/user-attachments/assets/902cfdb0-14d8-49cd-bd80-cf4c53ff6bbc" />
+
 
 ### Optimized Route View
-[Insert image here]
+<img width="1920" height="980" alt="UpdateTrip" src="https://github.com/user-attachments/assets/0226092a-c0f6-43c5-a4d0-8d35856aa821" />
+
 
 ### Dashboard / Saved Trips
-[Insert image here]
+<img width="1920" height="980" alt="MyTrips" src="https://github.com/user-attachments/assets/285864e9-bbd8-445b-96f1-3cd025ef43c5" />
+
 
 ---
 
